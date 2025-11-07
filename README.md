@@ -37,6 +37,13 @@ Beta tells us how much the stock moves relative to the overall market.
 So, Beta is like the "personality" of the stock compared to the market.
 It helps answer: "Does this stock behave aggressively or calmly when the market changes?"
 
+## 📊 Visual Insights
+
+| Price Trend | Rolling Volatility | CAPM Regression Fit |
+|------------|-------------------|---------------------|
+| ![Price Trend](images/Price_Trend.png) | ![Rolling Volatility](images/Volatility.png) | ![CAPM Beta Fit](images/CPAM_beta.png) |
+
+
 # Summary & Takeaways
 
 From this analysis:
