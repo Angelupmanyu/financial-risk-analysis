@@ -41,7 +41,7 @@ It helps answer: "Does this stock behave aggressively or calmly when the market 
 
 | Price Trend | Rolling Volatility | CAPM Regression Fit |
 |------------|-------------------|---------------------|
-| ![Price Trend](images/Price_Trend.png) | ![Rolling Volatility](images/Volatility.png) | ![CAPM Beta Fit](images/CPAM_beta.png) |
+| ![Price Trend](images/Price_Trend.png) | ![Rolling Volatility](images/Volatility.png) | ![CAPM Beta Fit](images/CAPM_beta.png) |
 
 
 # Summary & Takeaways
